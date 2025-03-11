@@ -1,0 +1,7 @@
+# Python 3.11
+keras 
+tensorflow 
+typing-extensions==4.5.0
+ipython==7.31.1
+torch==2.0.1 
+torchvision==0.15.0
